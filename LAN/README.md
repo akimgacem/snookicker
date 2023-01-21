@@ -7,7 +7,7 @@ Follow the pre-install recommandation here.
 Just run the "main.exe"(Windows 64bits only),  and go to "Super Stars tournament".
 
 - How does it works ?
-NodeJS create a server to handle players connexion and sync.
+NodeJS create a server to handle players connexion and sync inputs.
 Players must be connected on same wifi.
 
 - Why must be on same wifi ?
